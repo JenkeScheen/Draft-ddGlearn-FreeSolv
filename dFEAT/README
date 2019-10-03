@@ -1,0 +1,3 @@
+had to include Bondi VdW radius of iodine (=1.98) in file:
+/home/jscheen/miniconda3/envs/ddGlearn/lib/python3.5/site-packages/mordred/VdwVolumeABC.py
+because SCHRO_THROMBIN - ligand 4d failed to compute.
